@@ -1,0 +1,11 @@
+div{
+	width: 100vw;
+	height: 100vw;
+	background: orange;
+}
+
+span{
+	font-family: sans-serif;
+	font-size: 30px;
+	color: greenyellow;
+}
